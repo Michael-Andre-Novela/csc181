@@ -77,6 +77,7 @@ How could you determine whether your proposed solution actually helped users?
 You may include **one screenshot** or reference image only if it does not contain personal, confidential, or sensitive information.
 
 > Do not include passwords, private messages, account numbers, grades, addresses, personal information, or other confidential content.
+
 ![App interface mockup for lodging and services](lodging.jpg)
 
 
