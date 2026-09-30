@@ -1,7 +1,7 @@
 # Software in the Wild: Improving the Diyandi Experience Through Software
 
 > **Name:** Michael Andre L. Novela  
-> **Section:** BSCS-CS3B 
+> **Section:** BSCS-CS3B
 > **Date submitted:** 2026-09-30
 
 ---
