@@ -81,7 +81,7 @@ You may include **one screenshot** or reference image only if it does not contai
 
 > Do not include passwords, private messages, account numbers, grades, addresses, personal information, or other confidential content.
 
-![App interface mockup for lodging and services](lodging.jpg)
+![App interface mockup for lodging and services](../images/lodging.jpg)
 
 **External sources used, if any:**  
 None
